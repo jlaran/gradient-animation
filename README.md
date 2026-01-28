@@ -28,6 +28,8 @@ A lightweight, dependency-free JavaScript library for creating smooth CSS linear
 
 ## Demo
 
+**[Live Demo](https://jlaran.github.io/gradient-animation/test.html)** — Try it in your browser!
+
 Transform your UI with smooth gradient transitions:
 
 ```
